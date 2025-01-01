@@ -16,3 +16,9 @@ alarm_time = "07:00:00"
 
 # 启动定时器
 set_alarm(alarm_time)
+
+# 设置闹钟时间，格式为"时:分:秒"，例如 "07:00:00"
+alarm_time = "07:00:00"
+
+# 启动定时器
+set_alarm(alarm_time)
